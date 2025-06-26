@@ -43,3 +43,4 @@
             print("Please ensure you have set the 'DISCORD_BOT_TOKEN' secret on your hosting platform (like Render).")
         else:
             bot.run(DISCORD_BOT_TOKEN)
+    
